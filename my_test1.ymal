@@ -1,0 +1,3 @@
+- testing router 1
+- testing router 2
+- {domain_name: gio.com, hostname: routerabc, ntp: 10.1.1.1}
